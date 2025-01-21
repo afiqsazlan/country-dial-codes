@@ -10,7 +10,7 @@ Each country entry contains the following fields:
 |-------|-------------|---------|
 | country | Country name | `"Malaysia"` |
 | code | ISO 3166-1 alpha-3 country code | `"MYS"` |
-| dial_code | International dialing code with + prefix | `"+60"` |
+| dial_code | Dialing code | `"60"` |
 
 ## Usage
 
